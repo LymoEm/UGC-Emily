@@ -1,0 +1,10 @@
+IMÁGENES DEL PORTAFOLIO
+
+Exporta desde Canva las cuatro imágenes originales y guárdalas aquí:
+- hero-photo.jpg   (foto principal del inicio)
+- books-photo.jpg  (imagen de Books & Lifestyle)
+- food-photo.jpg   (imagen de Food & Asian Food)
+- cosplay-photo.jpg (imagen de Cosplay & Fantasy)
+
+Las direcciones canva:// del código original solo funcionan dentro de Canva.
+Si exportas en PNG, cambia también la extensión en index.html.
